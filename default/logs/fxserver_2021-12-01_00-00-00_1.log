@@ -1,0 +1,66 @@
+
+================================================================
+======== Log Rotated - 1.12.2021, 00:00:00                      
+================================================================
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:oxmysql] [WARNING] qb-weed took 4488ms to execute a query!
+[      script:oxmysql]         SELECT * FROM house_plants []
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was removed from the connecting queue because they timed out
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[         script:chat] Rackoon: 8
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!

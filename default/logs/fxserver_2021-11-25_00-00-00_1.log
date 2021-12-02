@@ -1,0 +1,28 @@
+
+================================================================
+======== Log Rotated - 25.11.2021, 00:00:00                     
+================================================================
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 2 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 14 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 14 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 8 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 14 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 14 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 8 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 2 but received 1
+[      script:oxmysql] Error: Warning: got packets out of order. Expected 14 but received 1
+[      script:oxmysql] [WARNING] qb-crypto took 772ms to execute a query!
+[      script:oxmysql]         SELECT * FROM crypto WHERE crypto = ? ["qbit"]
+[      script:oxmysql] [WARNING] qb-crypto took 773ms to execute a query!
+[      script:oxmysql]         INSERT INTO crypto (worth, history) VALUES (:worth, :history) ON DUPLICATE KEY UPDATE worth = :worth, history = :history {"worth":166,"history":"[{\"NewWorth\":166,\"PreviousWorth\":156},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":8,\"PreviousWorth\":1}]"}
+[      script:oxmysql] [WARNING] qb-weed took 943ms to execute a query!
+[      script:oxmysql]         SELECT * FROM house_plants []
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: connection pool timeout
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[      net-tcp-server] Proxy error: could not get rpuuid: LOADING Redis is loading the dataset in memory
+[      net-tcp-server] Proxy error: could not get rpuuid: LOADING Redis is loading the dataset in memory
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable
+[      net-tcp-server] Proxy error: could not get rpuuid: redis: all sentinels are unreachable

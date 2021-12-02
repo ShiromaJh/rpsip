@@ -1,0 +1,17 @@
+
+================================================================
+======== Log Rotated - 26.11.2021, 00:00:00                     
+================================================================
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:oxmysql] [WARNING] qb-vehicleshop took 259ms to execute a query!
+[      script:oxmysql]         SELECT * FROM player_vehicles WHERE license = ? ["license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4"]
+[      script:oxmysql] [WARNING] qb-crypto took 561ms to execute a query!
+[      script:oxmysql]         INSERT INTO crypto (worth, history) VALUES (:worth, :history) ON DUPLICATE KEY UPDATE worth = :worth, history = :history {"worth":171,"history":"[{\"NewWorth\":171,\"PreviousWorth\":171},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":8,\"PreviousWorth\":1}]"}

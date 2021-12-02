@@ -1,0 +1,18 @@
+
+================================================================
+======== Log Rotated - 29.11.2021, 00:00:00                     
+================================================================
+[      script:oxmysql] [WARNING] qb-weed took 296ms to execute a query!
+[      script:oxmysql]         SELECT * FROM house_plants []
+[ script:connectqueue] QUEUE: JMoney1143[license:d04d69f73be9b077fa565ffddb740f66fe3834c7] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: JMoney1143[license:d04d69f73be9b077fa565ffddb740f66fe3834c7] is loading into the server
+[      script:oxmysql] [WARNING] qb-multicharacter took 234ms to execute a query!
+[      script:oxmysql]         SELECT * FROM players WHERE license = ? ["license:d04d69f73be9b077fa565ffddb740f66fe3834c7"]
+[      script:qb-core] [qb-core:LOG] JMoney1143 PLAYER SAVED!
+[script:qb-multichara] [qb-core] JMoney1143 has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[      script:qb-core] [qb-core:LOG] JMoney1143 PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] JMoney1143 PLAYER SAVED!

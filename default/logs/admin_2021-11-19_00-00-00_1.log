@@ -1,0 +1,95 @@
+
+================================================================
+======== txAdmin Starting - 19.11.2021, 22:47:50                
+================================================================
+[22:52:00] [zap836503] logged in from 143.244.48.219 via password
+[23:19:58] [zap836503] Changing global settings via setup stepper and started Deployer.
+[23:20:05] [zap836503] Setting recipe.
+[23:20:18] [zap836503] Running recipe.
+[23:22:34] [zap836503] Configured server.cfg from deployer.
+[23:22:34] [zap836503] Completed and committed server deploy.
+[00:32:41] [zap836503] RESTART SERVER
+[08:05:09] [zap836503] Sending announcement: Restarting the Server for Drug Changes
+[08:05:28] [zap836503] RESTART SERVER
+[08:50:43] [zap836503] Editing server CFG File.
+[10:16:20] [zap836503] logged in from 45.59.47.186 via password
+[10:17:13] [zap836503] Editing server CFG File.
+[10:17:18] [zap836503] RESTART SERVER
+[11:09:33] [zap836503] logged in from 68.56.173.73 via password
+[11:09:42] [zap836503] RESTART SERVER
+[11:20:12] [zap836503] RESTART SERVER
+[11:29:55] [zap836503] RESTART SERVER
+[11:48:02] [zap836503] RESTART SERVER
+[12:59:45] [zap836503] RESTART SERVER
+[13:08:38] [zap836503] RESTART SERVER
+[13:30:59] [zap836503] RESTART SERVER
+[14:25:49] [zap836503] refresh
+[14:41:41] [zap836503] ensure "qb-inventory"
+[14:42:00] [zap836503] stop "qb-inventory"
+[14:42:06] [zap836503] ensure "qb-inventory"
+[14:53:30] [zap836503] ensure "qb-inventory"
+[14:54:22] [zap836503] Adding admin 'ubezerk'.
+[14:55:21] [zap836503] refresh
+[14:56:32] [zap836503] RESTART SERVER
+[15:00:18] [zap836503] Adding admin 'Rackoon'.
+[16:59:03] [zap836503] RESTART SERVER
+[17:01:14] [zap836503] STOP SERVER
+[17:01:40] [zap836503] START SERVER
+[17:16:22] [zap836503] RESTART SERVER
+[17:25:22] [zap836503] RESTART SERVER
+[17:39:36] [zap836503] RESTART SERVER
+[17:44:13] [zap836503] RESTART SERVER
+[17:55:02] [zap836503] RESTART SERVER
+[17:57:43] [zap836503] RESTART SERVER
+[18:03:32] [zap836503] RESTART SERVER
+[18:08:07] [zap836503] RESTART SERVER
+[18:10:27] [zap836503] RESTART SERVER
+[18:40:37] [zap836503] RESTART SERVER
+[18:41:05] [zap836503] RESTART SERVER
+[18:44:00] [zap836503] RESTART SERVER
+[21:48:08] [zap836503] RESTART SERVER
+[04:30:00] [zap836503] RESTART SERVER
+[05:51:49] [zap836503] RESTART SERVER
+[06:19:39] [zap836503] RESTART SERVER
+[06:21:45] [zap836503] RESTART SERVER
+[06:48:12] [zap836503] RESTART SERVER
+[07:38:06] [zap836503] RESTART SERVER
+[07:48:31] [zap836503] RESTART SERVER
+[08:55:21] [zap836503] logged in from 173.239.226.115 via password
+[09:49:14] [zap836503] RESTART SERVER
+[09:56:52] [zap836503] RESTART SERVER
+[10:32:34] [zap836503] RESTART SERVER
+[10:40:17] [zap836503] RESTART SERVER
+[10:49:45] [zap836503] ensure "qb-drugs"
+[23:06:01] [zap836503] logged in from 68.56.173.73 via password
+[23:27:59] [zap836503] RESTART SERVER
+[23:43:02] [zap836503] RESTART SERVER
+[00:33:31] [zap836503] RESTART SERVER
+[00:34:33] [MONITOR] Restarting server (server close detected).
+[00:35:36] [MONITOR] Restarting server (server close detected).
+[00:40:37] [zap836503] RESTART SERVER
+[00:47:01] [zap836503] RESTART SERVER
+[00:58:02] [zap836503] RESTART SERVER
+[01:01:07] [zap836503] RESTART SERVER
+[01:07:29] [zap836503] RESTART SERVER
+[01:12:10] [zap836503] RESTART SERVER
+[01:22:41] [zap836503] RESTART SERVER
+[01:25:31] [zap836503] RESTART SERVER
+[01:39:10] [zap836503] RESTART SERVER
+[01:46:20] [zap836503] STOP SERVER
+[01:46:40] [zap836503] START SERVER
+[02:15:42] [zap836503] RESTART SERVER
+[02:26:18] [zap836503] RESTART SERVER
+[02:38:18] [zap836503] RESTART SERVER
+[03:00:12] [zap836503] RESTART SERVER
+[03:02:02] [zap836503] RESTART SERVER
+[03:06:24] [zap836503] STOP SERVER
+[03:06:39] [zap836503] START SERVER
+[03:37:02] [zap836503] logged in from 102.129.145.156 via password
+[03:37:35] [zap836503] stop "qb-lockpick"
+[03:37:42] [zap836503] ensure "qb-lockpick"
+[07:39:19] [zap836503] logged in from 102.129.145.48 via password
+[07:42:11] [zap836503] Editing server CFG File.
+[07:42:29] [zap836503] Editing server CFG File.
+[07:42:49] [zap836503] Editing server CFG File.
+[07:42:56] [zap836503] RESTART SERVER

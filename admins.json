@@ -1,0 +1,29 @@
+[
+  {
+    "name": "zap836503",
+    "master": true,
+    "password_hash": "$2y$10$WxUe1p1re5f1vn41hZESi.y8TeDkxBUx6kYW1bcwdQZjClGqphjBO",
+    "providers": {},
+    "permissions": []
+  },
+  {
+    "name": "ubezerk",
+    "master": false,
+    "password_hash": "$2a$11$/jkyMnOjEF8XXQ67RkTi/evaU7X6h2eAk6M.bNSHMU9l.YCf9LlWm",
+    "password_temporary": true,
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Rackoon",
+    "master": false,
+    "password_hash": "$2a$11$U/2i5zaYwi0ONvqLHujb3.JXPD296dY2.4jqvKl58swCHH0s9UVxG",
+    "password_temporary": true,
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

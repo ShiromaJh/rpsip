@@ -1,0 +1,23 @@
+
+================================================================
+======== Log Rotated - 28.11.2021, 00:00:00                     
+================================================================
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] was placed 1/1 in queue
+[ script:connectqueue] QUEUE: Rackoon[license:dff1dc1c72eb3350aaf3c80723fcee784d97afe4] is loading into the server
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[script:qb-multichara] [qb-core] Rackoon (Citizen ID: CPK31290) has succesfully loaded!
+[     script:qb-drugs] SCRIPT ERROR: @qb-drugs/server/deliveries.lua:29: attempt to index a nil value (global 'Config')
+[     script:qb-drugs] > ref (@qb-drugs/server/deliveries.lua:29)
+[     script:qb-drugs] > TriggerCallback (@qb-core/server/functions.lua:134)
+[     script:qb-drugs] > handler (@qb-core/server/events.lua:116)
+[                 cmd] Access denied for command restart.
+[                 cmd] Access denied for command restart.
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:qb-core] [qb-core:LOG] Rackoon PLAYER SAVED!
+[      script:oxmysql] [WARNING] qb-crypto took 823ms to execute a query!
+[      script:oxmysql]         INSERT INTO crypto (worth, history) VALUES (:worth, :history) ON DUPLICATE KEY UPDATE worth = :worth, history = :history {"worth":275,"history":"[{\"NewWorth\":275,\"PreviousWorth\":285},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":8,\"PreviousWorth\":1}]"}
+[      script:oxmysql] [WARNING] qb-weed took 2422ms to execute a query!
+[      script:oxmysql]         SELECT * FROM house_plants []
+[      script:oxmysql] [WARNING] qb-crypto took 545ms to execute a query!
+[      script:oxmysql]         INSERT INTO crypto (worth, history) VALUES (:worth, :history) ON DUPLICATE KEY UPDATE worth = :worth, history = :history {"worth":327,"history":"[{\"NewWorth\":327,\"PreviousWorth\":330},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":1,\"PreviousWorth\":1},{\"NewWorth\":8,\"PreviousWorth\":1}]"}
